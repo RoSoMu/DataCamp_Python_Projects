@@ -29,7 +29,7 @@
 ## Intermediate
  * DCPI1: Crime in LA
  * DCPI1 jpg: la_skyline.jpg
- * DCPI1 data: crimes.csv
+ * DCPI1 data: crimes.csv (missing - 27.5 MB)
  * DCPI2: Hypothesis Testing Men and Women Soccer
  * DCPI2 jpg: soccer-pitch.jpg
  * DCPI2 data: men_results.csv, women_results.csv
