@@ -23,5 +23,7 @@
  * DCPI1 data: crimes.csv (missing - 27.5 MB)
  * DCPI2: Hypothesis Testing Men and Women Soccer
  * DCPI2 data: men_results.csv, women_results.csv
+ * DCPI3: Predictive Modeling for Agriculture: multinomial logistic regression classifier
+ * DCPI3 data: soil_measures.csv
  
 ## Advanced
