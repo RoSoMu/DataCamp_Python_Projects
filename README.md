@@ -25,5 +25,7 @@
  * DCPI2 data: men_results.csv, women_results.csv
  * DCPI3: Predictive Modeling for Agriculture: multinomial logistic regression classifier
  * DCPI3 data: soil_measures.csv
+ * DCPI4: Predictive Modeling for Movie Rentals: Ridge, KNN and Decision Tree regressors.
+ * DCPI4 data: rental_info.csv
  
 ## Advanced
